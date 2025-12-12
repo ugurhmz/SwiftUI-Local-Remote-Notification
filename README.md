@@ -1,4 +1,8 @@
+#  Native Node.js APNs Pusher (HTTP/2 & Resumable)
 
+Bu proje, Firebase veya OneSignal gibi 3. parti servisler **kullanmadan**, doğrudan **Apple Push Notification Service (APNs)** ile **HTTP/2** protokolü üzerinden haberleşen, saf bir Node.js projesidir.
+
+Amaç; APNs altyapısını, **JWT (JSON Web Token)** tabanlı kimlik doğrulamayı, mantığını native düzeyde simüle etmektir.
 
 ## Nodejs Örnek Kodumuz. Gerekli yerleri kendi bilgileriniz ile doldurun.
 
